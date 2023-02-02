@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/Amit0458?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Amit0458" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://Amit Chakraborty.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amit-chakrabortty-568213109/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></a> </p>
+<p align="left"> <a href="https://www.github.com/Amit0458" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amit-chakrabortty-568213109/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></a> </p>
 
 ### Badges
 
