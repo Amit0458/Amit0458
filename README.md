@@ -8,9 +8,7 @@ Java Full-Stack Developer
 * ✉️  You can contact me at [amitkumar51997@gmail.com](mailto:amitkumar51997@gmail.com)
 
 <a href="https://www.github.com/Amit0458" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Amit0458?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Amit Chakraborty" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Amit Chakraborty?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/Amit0458?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
