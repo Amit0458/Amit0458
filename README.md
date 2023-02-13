@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amit Chakraborty
+![alt text for screen readers](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Amit Chakraborty
 ========================================================================================================================================
 
 Aspiring Java Backend Developer
@@ -7,7 +9,8 @@ Aspiring Java Backend Developer
 I'm a competent JAVA backend developer, with a strong proficiency in designing and implementing complex systems using various JAVA technologies and a passion for constantly improving my skills and taking on new challenges.
 
 * 🌍  I'm based in Purulia, West Bengal
-* ✉️  You can contact me at [amitkumar51997@gmail.com](mailto:amitkumar51997@gmail.com)
+* 🖥️  Know more about me https://amit0458.github.io/ My Portfolio 
+* ✉️  How to reach me amitkumar51997@gmail.com
 * 🧠  I'm currently learning Core Java, SQL, RDBMS, Hibernate
 * ⚡  Ask me about Java, JavaScript I will answer
 
@@ -35,10 +38,11 @@ src="https://img.shields.io/github/followers/Amit0458?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Amit0458"><img src="https://github-readme-stats.vercel.app/api?username=Amit0458&show_icons=true&hide=issues,&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amit0458's GitHub stats" /></a>
-
 <a href="http://www.github.com/Amit0458"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit0458&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<span>
+<a href="http://www.github.com/Amit0458"><img src="https://github-readme-stats.vercel.app/api?username=Amit0458&show_icons=true&hide=issues,&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amit0458's GitHub stats" /></a>
+</span>
 
 <a href="http://www.github.com/Amit0458"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amit0458&bg_color=1c1917&color=ffffff&line=ffffff&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Amit0458" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0458&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
