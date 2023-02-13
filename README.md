@@ -8,7 +8,7 @@ I'm a competent JAVA backend developer, with a strong proficiency in designing a
 
 * 🌍  I'm based in Purulia, West Bengal
 * ✉️  You can contact me at [amitkumar51997@gmail.com](mailto:amitkumar51997@gmail.com)
-* 🧠  I'm learning Core Java, SQL, RDBMS, Hibernate
+* 🧠  I'm currently learning Core Java, SQL, RDBMS, Hibernate
 * ⚡  Ask me about Java, JavaScript I will answer
 
 <a href="https://www.github.com/Amit0458" target="_blank" rel="noreferrer"><img
