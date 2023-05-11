@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Chakraborty</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on [EasyPay Wallet Service](https://github.com/pandeyneha0123/heroic-ice-5830)
+- 🔭 I’m currently working on[EasyPay Wallet Service](https://github.com/pandeyneha0123/heroic-ice-5830)
 
 - 🌱 I’m currently learning **Spring, SpringBoot, Servlet, Jsp, Mysql**
 
